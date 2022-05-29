@@ -17,6 +17,5 @@ class CustomSortableAsset extends AssetBundle
     ];
 
     public $depends = [
-        'backend\assets\AppAsset',
     ];
 }

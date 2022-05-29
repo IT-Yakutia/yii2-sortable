@@ -17,6 +17,5 @@ class SortableAsset extends AssetBundle
     ];
 
     public $depends = [
-        'backend\assets\AppAsset',
     ];
 }
